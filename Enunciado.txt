@@ -1,0 +1,10 @@
+En el archivo "Gardenia.ai" tienes la maquetación de la pagina que debes crear.
+Solo debes utilizar las imagenes e iconos incluidos en este archvio.
+
+
+Archivos a entregar.
+Dentro de esta misma carpeta debes colocar junto a los archivos que te he entregado los siguientes:
+* Carpeta del sitio web. 
+
+ASEGURATÉ DE QUE TODOS LOS ENLACES FUNCIONAN CORRECTAMENTE.   
+TODO LO QUE YO NO PUEDA VER NO SERÁ CORREGIDO.
